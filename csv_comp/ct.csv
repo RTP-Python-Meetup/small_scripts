@@ -1,0 +1,13 @@
+Customer,Product,Mapping_Product           ,Mapping_Risk_Pool,Mapping_Segment,Report_Section,Coverage_Month,Actuals,Subscribers
+,,Dental,,Individual,Self,,10,
+,,Dental,,Individual,Funded,,24,
+,,Dental,,Individual,ASO,,31,
+,,Dental,,Group,Self,,15,
+,,Dental,,Group,Funded,,11,
+,,Dental,,Group,ASO,,159,
+,,Medical,,Individual,Self,,34,
+,,Medical,,Individual,Funded,,26,
+,,Medical,,Individual,ASO,,78,
+,,Medical,,Group,Self,,65,
+,,Medical,,Group,Funded,,123,
+,,Medical,,Group,ASO,,4,
